@@ -1,0 +1,1 @@
+"Primer fitxer al primer repositori de Adrià Henares Torruella"
