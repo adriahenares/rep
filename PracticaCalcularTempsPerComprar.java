@@ -9,6 +9,6 @@ public class PracticaCalcularTempsPerComprar {
         System.out.println("En Pere ha d'estalviar durant " + calcularDies(preu, salaridia) + " dies");
     }
     public static int calcularDies(double preu, double salaridia){
-        return (int) Math.round(preu / salaridia);
+        return (int) Math.round(preu / salaridia); //Round es per arrodonir i ceil per tallar
     }
 }
