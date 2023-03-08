@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class PracticaCalcularTempsPerComprar {
     public static void main(String[] args) {
+        //crear objectes de classe
         Scanner keyboard = new Scanner(System.in);
         double preu, salari, salaridia;
         preu = keyboard.nextDouble();
